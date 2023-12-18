@@ -1,4 +1,4 @@
-import fitz  # PyMuPDF
+import fitz  
 
 def parse(pdf_filename):
     # Open the PDF file
